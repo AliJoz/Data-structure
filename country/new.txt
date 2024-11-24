@@ -1,0 +1,23 @@
+{Province: Tehran	Population->14033401	Numberof->16}
+[County:damavand	Population->1	Numberof->0]
+{Province: Khuzestan	Population->4710509	Numberof->29}
+[County: Ahwaz	Population->1302591	Numberof->3]
+[County: Dezful	Population->443971	Numberof->4]
+<District: Central	Population->-9872	Numberof->6>
+**City: Dezul	Population->264709	Numberof->0**
+<Rural District: Shamsabad	Population->40207	Numberof->49>
+#Village: Anjirak	Population->3704	Numberof->0#
+#Village: Bonvarshami	Population->715	Numberof->0#
+#Village: Qaleh-e No	Population->1200	Numberof->0#
+#Village: Qaleh-e Rob	Population->466	Numberof->0#
+<Rural District: Qeblehi	Population->24594	Numberof->50>
+**City: Shahr-e Emam	Population->11393	Numberof->0**
+**City: Shamsababd	Population->10858	Numberof->0**
+**City: Siahmansur	Population->5406	Numberof->0**
+<District: Choghamish	Population->31185	Numberof->0>
+<District: Sardasht	Population->27726	Numberof->0>
+<District: Shahiyun	Population->11529	Numberof->0>
+[County: Shushtar	Population->192028	Numberof->3]
+[County: Shush	Population->136389	Numberof->2]
+[County: Andimeshk	Population->135116	Numberof->2]
+{Province: qom	Population->14033400	Numberof->16}
